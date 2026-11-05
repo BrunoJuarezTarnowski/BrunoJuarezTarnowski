@@ -24,7 +24,7 @@ Sou **desenvolvedor independente**, com vários anos de experiência prática em
 
 Também desenvolvo **aplicações web para necessidades reais**, como lojas virtuais, ferramentas de gestão financeira e plataformas para registro de acordos particulares.
 
-Atualmente, utilizo **agentes de inteligência artificial como apoio ao desenvolvimento** — do planejamento e da implementação aos testes e às melhorias contínuas. Valorizo soluções funcionais, aprendizado constante e transparência sobre as ferramentas utilizadas.
+Atualmente, utilizo **agentes de inteligência artificial como apoio ao desenvolvimento** do planejamento e da implementação aos testes e às melhorias contínuas. Valorizo soluções funcionais, aprendizado constante e transparência sobre as ferramentas utilizadas.
 
 > **Meu foco:** transformar necessidades e ideias em soluções digitais úteis, combinando experiência prática, pesquisa e novas tecnologias.
 
